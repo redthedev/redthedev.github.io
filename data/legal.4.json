@@ -39,18 +39,16 @@
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
 		"latlngarray": [
-			{"lat": -70.814, "lng": -22.400},
-			{"lat": -71.398, "lng": -22.444},
-			{"lat": -71.384, "lng": -21.818},
-			{"lat": -71.433, "lng": -21.466},
-			{"lat": -71.108, "lng": -19.873},
-			{"lat": -70.800, "lng": -20.434}
+			{"lat": -72.947, "lng": -3.126},
+			{"lat": -73.291, "lng": -1.664},
+			{"lat": -73.691, "lng": -2.851},
+			{"lat": -73.323, "lng": -4.268}
 		]
 	},
 	{
 		"title": "Mission Row PD",
 		"notes": "The Los Santos Police Department, along with the Sheriff's Office, makes up the executive branch of Los Santos; together they ensure that the law is upheld and enforced.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Los_Santos_Police_Department",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
@@ -62,52 +60,45 @@
 		]
 	},
 	{
-		"title": "PBSO",
-		"notes": "Paleto Bay Sheriff's Office headquarters.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Paleto_Bay_Sheriff%27s_Office",
+		"title": "SAST",
+		"notes": "San Andreas State Troopers Station.",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
 		"latlngarray": [
-			{"lat": 73.978, "lng": -29.654},
-			{"lat": 74.135, "lng": -27.689},
-			{"lat": 73.795, "lng": -27.251},
-			{"lat": 73.678, "lng": -27.119},
-			{"lat": 73.511, "lng": -27.129},
-			{"lat": 73.426, "lng": -27.196},
-			{"lat": 73.237, "lng": -27.404},
-			{"lat": 72.972, "lng": -28.085},
-			{"lat": 73.426, "lng": -29.919}
+			{"lat": -28.131, "lng": -105.003},
+			{"lat": -27.733, "lng": -107.190},
+			{"lat": -29.057, "lng": -107.772},
+			{"lat": -29.660, "lng": -105.146}
 		]
 	},
 	{
-		"title": "SDSO",
-		"notes": "The Senora Desert Sheriff's Office ensures crime is upheld and enforced.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Senora_Desert_Sheriff's_Office",
+		"title": "BCSO",
+		"notes": "The Blaine County Sheriff's Office ensures crime is upheld and enforced.",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
 		"latlngarray": [
-			{"lat": 40.127, "lng": 37.054},
-			{"lat": 40.912, "lng": 38.801},
-			{"lat": 40.061, "lng": 39.428},
-			{"lat": 39.274, "lng": 37.692}
+			{"lat": 14.907, "lng": 16.271},
+			{"lat": 14.981, "lng": 14.470},
+			{"lat": 16.230, "lng": 14.470},
+			{"lat": 16.230, "lng": 16.271}
 		]
 	},
 	{
 		"title": "The Courthouse",
 		"notes": "",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Department_of_Justice",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
 		"latlngarray": [
-			{"lat": -72.999, "lng": -8.914},
-			{"lat": -74.103, "lng": -4.343},
-			{"lat": -73.574, "lng": -2.772},
-			{"lat": -73.073, "lng": -5.222},
-			{"lat": -72.747, "lng": -4.497},
-			{"lat": -72.438, "lng": -5.673}
+			{"lat": -55.306, "lng": -29.883},
+			{"lat": -57.102, "lng": -27.993},
+			{"lat": -57.881, "lng": -31.146},
+			{"lat": -56.080, "lng": -33.069}
 		]
 	}
 ]
