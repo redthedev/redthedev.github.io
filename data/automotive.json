@@ -947,5 +947,19 @@
 			{"lat": 65.065, "lng": -61.169},
 			{"lat": 65.273, "lng": -61.246}
 		]
+	},
+	{
+		"title": "Airport Parking",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -81.124, "lng": -42.972},
+			{"lat": -81.401, "lng": -39.852},
+			{"lat": -81.942, "lng": -42.005},
+			{"lat": -81.657, "lng": -45.147}
+		]
 	}	
 ]
