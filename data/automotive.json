@@ -159,7 +159,7 @@
 		"title": "Davis Gas Station",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -173,7 +173,7 @@
 	{
 		"title": "Downtown Vinewood Gas Station",
 		"notes": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -188,7 +188,7 @@
 		"title": "Great Ocean Gas Station",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -207,7 +207,7 @@
 		"title": "Little Seoul Gas Station",
 		"notes": "A very popular gas station located in Little Seoul.",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -226,7 +226,7 @@
 	{
 		"title": "Mirror Park Gas Station",
 		"notes": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -241,7 +241,7 @@
 	{
 		"title": "Paleto Bay Gas Station",
 		"notes": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -255,7 +255,7 @@
 		"title": "Richman Glen Gas Station",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -272,7 +272,7 @@
 	{
 		"title": "San Chianski Mountain Gas Station",
 		"notes": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -286,7 +286,7 @@
 		"title": "Strawberry Gas Station",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -301,7 +301,7 @@
 		"title": "Sandy Shores Gas Station",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -315,7 +315,7 @@
 		"title": "Grapeseed Gas Station",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -331,7 +331,7 @@
 		"title": "Parking #1",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -346,7 +346,7 @@
 		"title": "Parking #2",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -361,7 +361,7 @@
 		"title": "Parking #3",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -375,7 +375,7 @@
 		"title": "Parking #4",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -389,7 +389,7 @@
 		"title": "Parking #5",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -403,7 +403,7 @@
 		"title": "Parking #6",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -417,7 +417,7 @@
 		"title": "Parking #7",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -431,7 +431,7 @@
 		"title": "Parking #8",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -445,7 +445,7 @@
 		"title": "Parking #9",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -459,7 +459,7 @@
 		"title": "Parking #10",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -474,7 +474,7 @@
 		"title": "Parking #11",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -488,7 +488,7 @@
 		"title": "Parking #12",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -502,7 +502,7 @@
 		"title": "Parking #13",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -516,7 +516,7 @@
 		"title": "Parking #14",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -530,7 +530,7 @@
 		"title": "Parking #15",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -544,7 +544,7 @@
 		"title": "Parking #16",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -558,7 +558,7 @@
 		"title": "Parking #17",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -572,7 +572,7 @@
 		"title": "Parking #18",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -586,7 +586,7 @@
 		"title": "Parking #19",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -600,7 +600,7 @@
 		"title": "Parking #20",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -614,7 +614,7 @@
 		"title": "Parking #21",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -628,7 +628,7 @@
 		"title": "Parking #22",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -642,7 +642,7 @@
 		"title": "Parking #23",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -656,7 +656,7 @@
 		"title": "Parking #24",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -672,7 +672,7 @@
 		"title": "Parking #25",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -686,7 +686,7 @@
 		"title": "Parking #26",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -700,7 +700,7 @@
 		"title": "Parking #27",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -714,7 +714,7 @@
 		"title": "Parking #28",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -728,7 +728,7 @@
 		"title": "Parking #29",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -742,7 +742,7 @@
 		"title": "Parking #30",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -756,7 +756,7 @@
 		"title": "Parking #31",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -770,7 +770,7 @@
 		"title": "Parking #32",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -784,7 +784,7 @@
 		"title": "Parking #33",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -798,16 +798,154 @@
 		"title": "Parking #34",
 		"notes": "",
 		"wiki_link": "",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
-			{"lat": -16.085, "lng": 57.471},
-			{"lat": -16.959, "lng": 57.482},
-			{"lat": -16.959, "lng": 56.801},
-			{"lat": -16.095, "lng": 56.790}
+			{"lat": 32.113, "lng": 37.930},
+			{"lat": 31.534, "lng": 38.358},
+			{"lat": 31.300, "lng": 37.776},
+			{"lat": 31.899, "lng": 37.348}
 		]
-	}
-	
-	
+	},
+	{
+		"title": "Parking #35",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": 32.113, "lng": 37.930},
+			{"lat": 31.534, "lng": 38.358},
+			{"lat": 31.300, "lng": 37.776},
+			{"lat": 31.899, "lng": 37.348}
+		]
+	},
+	{
+		"title": "Parking #36",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": 19.606, "lng": -8.028},
+			{"lat": 19.004, "lng": -7.918},
+			{"lat": 18.942, "lng": -8.698},
+			{"lat": 19.564, "lng": -8.775}
+		]
+	},
+	{
+		"title": "Parking #37",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": 38.841, "lng": 12.117},
+			{"lat": 38.832, "lng": 12.732},
+			{"lat": 38.455, "lng": 12.732},
+			{"lat": 38.438, "lng": 12.128}
+		]
+	},
+	{
+		"title": "Parking #38",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": 43.576, "lng": 33.554},
+			{"lat": 43.289, "lng": 33.884},
+			{"lat": 43.056, "lng": 33.467},
+			{"lat": 43.337, "lng": 33.137}
+		]
+	},
+	{
+		"title": "Parking #39",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": 60.050, "lng": 33.801},
+			{"lat": 60.067, "lng": 34.229},
+			{"lat": 59.869, "lng": 34.262},
+			{"lat": 59.841, "lng": 33.845}
+		]
+	},
+	{
+		"title": "Parking #40",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": 76.644, "lng": -12.582},
+			{"lat": 76.542, "lng": -12.131},
+			{"lat": 76.447, "lng": -12.593},
+			{"lat": 76.534, "lng": -13.043}
+		]
+	},
+	{
+		"title": "Parking #41",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": 76.644, "lng": -12.582},
+			{"lat": 76.542, "lng": -12.131},
+			{"lat": 76.447, "lng": -12.593},
+			{"lat": 76.534, "lng": -13.043}
+		]
+	},
+	{
+		"title": "Parking #42",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": 69.382, "lng": -36.882},
+			{"lat": 69.227, "lng": -36.574},
+			{"lat": 69.113, "lng": -37.058},
+			{"lat": 69.258, "lng": -37.332}
+		]
+	},
+	{
+		"title": "Parking #43",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": 77.028, "lng": -19.899},
+			{"lat": 76.948, "lng": -19.558},
+			{"lat": 76.781, "lng": -20.448},
+			{"lat": 76.814, "lng": -20.569}
+		]
+	},
+	{
+		"title": "Parking #44",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": 65.365, "lng": -60.312},
+			{"lat": 65.139, "lng": -60.213},
+			{"lat": 65.065, "lng": -61.169},
+			{"lat": 65.273, "lng": -61.246}
+		]
+	}	
 ]
