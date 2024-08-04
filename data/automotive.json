@@ -1,37 +1,35 @@
 [
 	{
-		"title": "Paleto Benny's Original Motor Works",
+		"title": "The Den",
 		"notes": "Repair shop",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CADA",
 		"latlngarray": [
-			{"lat": 78.059, "lng": -12.004},
-			{"lat": 77.942, "lng": -11.414},
-			{"lat": 77.875, "lng": -11.738},
-			{"lat": 77.991, "lng": -12.329}
+			{"lat": -64.656, "lng": -62.130},
+			{"lat": -65.113, "lng": -60.778},
+			{"lat": -65.503, "lng": -61.646},
+			{"lat": -65.007, "lng": -62.998}
 		]
 	},
 	{
-		"title": "Benny's Original Motor Works",
-		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Benny%27s_Original_Motor_Works",
+		"title": "PDM",
+		"notes": "Dealership",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
 		"latlngarray": [
-			{"lat": -67.373, "lng": -16.101},
-			{"lat": -67.791, "lng": -13.025},
-			{"lat": -68.502, "lng": -13.805},
-			{"lat": -68.552, "lng": -15.474},
-			{"lat": -68.077, "lng": -14.979},
-			{"lat": -67.887, "lng": -16.617}
+			{"lat": -67.873, "lng": -17.161},
+			{"lat": -68.091, "lng": -15.063},
+			{"lat": -68.702, "lng": -15.755},
+			{"lat": -68.722, "lng": -17.930}
 		]
 	},
 	{
 		"title": "Los Santos Customs",
-		"notes": "",
+		"notes": "Repair shop",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "00CAD8",
@@ -47,23 +45,23 @@
 		]
 	},
 	{
-		"title": "Harmony",
+		"title": "Flywheels",
 		"notes": "",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Harmony_Repairs_Garage",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
 		"latlngarray": [
-			{"lat": 14.563, "lng": 18.867},
-			{"lat": 14.563, "lng": 20.295},
-			{"lat": 13.177, "lng": 20.295},
-			{"lat": 13.177, "lng": 18.867}
+			{"lat": 32.587, "lng": 36.688},
+			{"lat": 31.788, "lng": 37.204},
+			{"lat": 31.432, "lng": 36.281},
+			{"lat": 32.235, "lng": 35.798}
 		]
 	},
 	{
 		"title": "Hayes",
 		"notes": "",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Hayes_Auto_Body_Repairs",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
@@ -89,23 +87,9 @@
 		]
 	},
 	{
-		"title": "Murrieta Heights Benny's Original Motor Works",
-		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Benny%27s_Original_Motor_Works",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD8",
-		"latlngarray": [
-			{"lat": -66.732, "lng": 11.959},
-			{"lat": -66.732, "lng": 12.851},
-			{"lat": -67.021, "lng": 12.851},
-			{"lat": -67.038, "lng": 11.959}
-		]
-	},
-	{
 		"title": "Strawberry Benny's Original Motor Works",
-		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Benny%27s_Original_Motor_Works",
+		"notes": "",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
@@ -180,7 +164,7 @@
 	{
 		"title": "Little Seoul Gas Station",
 		"notes": "A very popular gas station located in Little Seoul.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Little_Seoul",
+		"wiki_link": "",
 		"order": 1,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
