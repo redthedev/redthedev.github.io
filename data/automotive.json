@@ -455,7 +455,6 @@
 			{"lat": -76.294, "lng": -37.152}
 		]
 	},
-
 	{
 		"title": "Parking #10",
 		"notes": "",
@@ -471,8 +470,7 @@
 			{"lat": -76.289, "lng": -18.489}
 		]
 	},
-
-		{
+	{
 		"title": "Parking #11",
 		"notes": "",
 		"wiki_link": "",
@@ -500,7 +498,7 @@
 			{"lat": -72.161, "lng": -25.315}
 		]
 	},
-		{
+	{
 		"title": "Parking #13",
 		"notes": "",
 		"wiki_link": "",
@@ -610,6 +608,106 @@
 			{"lat": -64.320, "lng": -23.801},
 			{"lat": -64.542, "lng": -23.801},
 			{"lat": -64.542, "lng": -24.482}
+		]
+	},
+	{
+		"title": "Parking #21",
+		"notes": "",
+		"wiki_link": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -64.227, "lng": -8.740},
+			{"lat": -64.442, "lng": -7.235},
+			{"lat": -65.208, "lng": -7.894},
+			{"lat": -64.967, "lng": -9.377}
+		]
+	},
+	{
+		"title": "Parking #22",
+		"notes": "",
+		"wiki_link": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -62.205, "lng": -5.233},
+			{"lat": -62.358, "lng": -4.760},
+			{"lat": -62.682, "lng": -5.167},
+			{"lat": -62.571, "lng": -5.716}
+		]
+	},
+	{
+		"title": "Parking #23",
+		"notes": "",
+		"wiki_link": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -62.526, "lng": -14.484},
+			{"lat": -62.753, "lng": -13.034},
+			{"lat": -63.173, "lng": -13.364},
+			{"lat": -62.889, "lng": -14.704}
+		]
+	},
+	{
+		"title": "Parking #24",
+		"notes": "",
+		"wiki_link": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -65.660, "lng": -62.946},
+			{"lat": -65.822, "lng": -62.463},
+			{"lat": -65.988, "lng": -62.924},
+			{"lat": -65.831, "lng": -63.374}
+
+
+		]
+	},
+	{
+		"title": "Parking #25",
+		"notes": "",
+		"wiki_link": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -63.932, "lng": -47.559},
+			{"lat": -64.340, "lng": -46.757},
+			{"lat": -64.652, "lng": -47.625},
+			{"lat": -64.206, "lng": -48.493}
+		]
+	},
+	{
+		"title": "Parking #26",
+		"notes": "",
+		"wiki_link": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -58.137, "lng": -7.019},
+			{"lat": -58.363, "lng": -5.712},
+			{"lat": -58.923, "lng": -6.151},
+			{"lat": -58.638, "lng": -7.502},
+		]
+	},
+	{
+		"title": "Parking #27",
+		"notes": "",
+		"wiki_link": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -58.137, "lng": -7.019},
+			{"lat": -58.363, "lng": -5.712},
+			{"lat": -58.923, "lng": -6.151},
+			{"lat": -58.638, "lng": -7.502},
 		]
 	}
 	
