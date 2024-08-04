@@ -28,6 +28,22 @@
 		]
 	},
 	{
+		"title": "Luxury Autos",
+		"notes": "Car Dealership",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -56.064, "lng": -37.797},
+			{"lat": -57.128, "lng": -36.709},
+			{"lat": -57.467, "lng": -37.961},
+			{"lat": -56.418, "lng": -39.038}
+
+
+		]
+	},
+	{
 		"title": "PDM",
 		"notes": "Dealership",
 		"wiki_link": "",
