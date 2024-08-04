@@ -12,5 +12,67 @@
 			{"lat": -67.143, "lng": -7.992},
 			{"lat": -67.143, "lng": -5.5}
 		]
+	},
+
+	{
+		"title": "Brunch Box",
+		"notes": "N/A",
+		"wiki_link": "N/A",
+		"order": 1,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -56.390, "lng": -9.973},
+			{"lat": -56.729, "lng": -8.303},
+			{"lat": -57.605, "lng": -8.929},
+			{"lat": -57.297, "lng": -10.588}
+
+
+		]
+	},
+
+	{
+		"title": "Burger Shot",
+		"notes": "N/A",
+		"wiki_link": "N/A",
+		"order": 2,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -65.330, "lng": -48.944},
+			{"lat": -65.910, "lng": -51.109},
+			{"lat": -66.882, "lng": -49.735},
+			{"lat": -66.342, "lng": -47.395}
+		]
+	},
+
+	{
+		"title": "Hen House",
+		"notes": "N/A",
+		"wiki_link": "N/A",
+		"order": 1,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": 75.802, "lng": -23.691},
+			{"lat": 75.593, "lng": -22.823},
+			{"lat": 75.370, "lng": -23.735},
+			{"lat": 75.588, "lng": -24.636}
+		]
+	},
+
+	{
+		"title": "Alamo Diner",
+		"notes": "N/A",
+		"wiki_link": "N/A",
+		"order": 2,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": 39.916, "lng": 12.115},
+			{"lat": 38.948, "lng": 12.115},
+			{"lat": 38.948, "lng": 10.401},
+			{"lat": 39.916, "lng": 10.401}
+		]
 	}
 ]
