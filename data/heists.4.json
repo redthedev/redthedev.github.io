@@ -35,18 +35,30 @@
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
-			{"lat": -53.246, "lng": -26.209},
-			{"lat": -53.949, "lng": -22.806},
-			{"lat": -54.757, "lng": -23.103},
-			{"lat": -54.015, "lng": -26.608},
-			{"lat": -53.801, "lng": -26.399},
-			{"lat": -53.514, "lng": -26.245}
+			{"lat": -55.072, "lng": -4.767},
+			{"lat": -55.298, "lng": -3.746},
+			{"lat": -56.225, "lng": -4.262},
+			{"lat": -56.023, "lng": -5.404}
+		]
+	},
+	{
+		"title": "Fleeca Bank 4",
+		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -67.556, "lng": -10.315},
+			{"lat": -67.852, "lng": -10.601},
+			{"lat": -67.778, "lng": -11.271},
+			{"lat": -67.464, "lng": -10.941}
 		]
 	},
 	{
 		"title": "Paleto Bank",
 		"notes": "",
-		"wiki_link": "https://nopixel.fandom.com/wiki/City_Vault_(Pacific_Standard_Public_Deposit_Bank)",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
@@ -58,18 +70,17 @@
 		]
 	},
 	{
-		"title": "Bay City Bank",
+		"title": "Boulevard Del Perro Bank",
 		"notes": "",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
-			{"lat": -65.062, "lng": -53.673},
-			{"lat": -64.750, "lng": -52.816},
-			{"lat": -65.186, "lng": -52.080},
-			{"lat": -65.402, "lng": -52.970},
-			{"lat": -65.186, "lng": -53.344}
+			{"lat": -57.938, "lng": -49.674},
+			{"lat": -58.448, "lng": -49.223},
+			{"lat": -58.729, "lng": -50.388},
+			{"lat": -58.269, "lng": -50.893}
 		]
 	},
 	{
@@ -89,9 +100,9 @@
 		]
 	},
 	{
-		"title": "The City Vault",
+		"title": "Vinewood Bank",
 		"notes": "",
-		"wiki_link": "https://nopixel.fandom.com/wiki/City_Vault_(Pacific_Standard_Public_Deposit_Bank)",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
