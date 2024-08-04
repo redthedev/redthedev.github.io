@@ -166,7 +166,7 @@ $(function() {
 					url: 'data/weed_turf.json',
 				}),
 				new CategoryModel({
-					name: 'Heists',
+					name: 'Local Businesses',
 					icon: 'radar/radar_heist.png',
 					enabled: true,
 					url: 'data/heists.4.json',
