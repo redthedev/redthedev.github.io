@@ -96,5 +96,35 @@
 			{"lat": -76.122, "lng": -12.640},
 			{"lat": -75.878, "lng": -13.607}
 		]
+	},
+	{
+		"title": "FDF",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -74.464, "lng": -19.761},
+			{"lat": -71.791, "lng": -11.895},
+			{"lat": -71.276, "lng": -14.553},
+			{"lat": -71.353, "lng": -17.300},
+			{"lat": -72.832, "lng": -22.529},
+			{"lat": -74.040, "lng": -21.694}
+		]
+	},
+	{
+		"title": "G3",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -64.972, "lng": -32.821},
+			{"lat": -66.932, "lng": -32.810},
+			{"lat": -66.898, "lng": -37.260},
+			{"lat": -64.963, "lng": -37.183}
+		]
 	}
 ]
