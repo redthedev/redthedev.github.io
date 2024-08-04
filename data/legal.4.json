@@ -63,6 +63,45 @@
 		]
 	},
 	{
+		"title": "Impound Lot #2",
+		"notes": "Where cars go when they get impounded.",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 40.497, "lng": 38.529},
+			{"lat": 39.766, "lng": 39.145},
+			{"lat": 39.436, "lng": 38.486},
+			{"lat": 40.204, "lng": 37.881}
+		]
+	},
+	{
+		"title": "Impound Lot #3",
+		"notes": "Where cars go when they get impounded.",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 75.232, "lng": -27.058},
+			{"lat": 75.040, "lng": -26.959},
+			{"lat": 74.846, "lng": -27.629},
+			{"lat": 74.981, "lng": -28.058}
+		]
+	},
+	{
+		"title": "Airport Impound Lot",
+		"notes": "Where airplanes/heli's go when they get impounded.",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -82.927, "lng": -52.441},
+			{"lat": -83.071, "lng": -50.420},
+			{"lat": -83.255, "lng": -51.672},
+			{"lat": -83.135, "lng": -53.364}
+		]
+	},
+	{
 		"title": "Mission Row PD",
 		"notes": "The Los Santos Police Department, along with the Sheriff's Office, makes up the executive branch of Los Santos; together they ensure that the law is upheld and enforced.",
 		"wiki_link": "",
