@@ -14,6 +14,20 @@
 		]
 	},
 	{
+		"title": "Steel Horse Dealership & Repair",
+		"notes": "Bike Dealership",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -47.356, "lng": -28.212},
+			{"lat": -48.519, "lng": -28.256},
+			{"lat": -48.329, "lng": -30.574},
+			{"lat": -47.229, "lng": -30.410}
+		]
+	},
+	{
 		"title": "PDM",
 		"notes": "Dealership",
 		"wiki_link": "",
