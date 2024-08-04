@@ -122,5 +122,19 @@
 			{"lat": -70.110, "lng": -37.221},
 			{"lat": -69.533, "lng": -35.592}
 		]
+	},
+	{
+		"title": "Harmony Medical",
+		"notes": "=",
+		"wiki_ling": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 16.174, "lng": 18.190},
+			{"lat": 14.808, "lng": 18.190},
+			{"lat": 14.904, "lng": 16.267},
+			{"lat": 16.216, "lng": 16.267}
+		]
 	}
 ]
