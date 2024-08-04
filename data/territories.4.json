@@ -152,5 +152,19 @@
 			{"lat": -54.568, "lng": -62.101},
 			{"lat": -57.560, "lng": -57.861}
 		]
+	},
+	{
+		"title": "PizzaBoys",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -53.474, "lng": 6.994},
+			{"lat": -56.908, "lng": 16.333},
+			{"lat": -59.028, "lng": 13.981},
+			{"lat": -55.960, "lng": 4.841}
+		]
 	}
 ]
