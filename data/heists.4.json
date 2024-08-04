@@ -56,6 +56,22 @@
 		]
 	},
 	{
+		"title": "Fleeca Bank 5",
+		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -53.246, "lng": -26.209},
+			{"lat": -53.949, "lng": -22.806},
+			{"lat": -54.757, "lng": -23.103},
+			{"lat": -54.015, "lng": -26.608},
+			{"lat": -53.801, "lng": -26.399},
+			{"lat": -53.514, "lng": -26.245}
+		]
+	},
+	{
 		"title": "Paleto Bank",
 		"notes": "",
 		"wiki_link": "",
