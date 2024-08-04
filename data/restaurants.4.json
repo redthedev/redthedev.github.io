@@ -18,7 +18,7 @@
 		"title": "Brunch Box",
 		"notes": "N/A",
 		"wiki_link": "N/A",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
@@ -35,7 +35,7 @@
 		"title": "Burger Shot",
 		"notes": "N/A",
 		"wiki_link": "N/A",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
@@ -50,7 +50,7 @@
 		"title": "Hen House",
 		"notes": "N/A",
 		"wiki_link": "N/A",
-		"order": 1,
+		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
@@ -65,7 +65,7 @@
 		"title": "Alamo Diner",
 		"notes": "N/A",
 		"wiki_link": "N/A",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
