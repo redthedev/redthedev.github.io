@@ -1,16 +1,28 @@
 [
 	{
-		"title": "404 Casino",
-		"notes": "Owned by Marty Banks, the 404 Casino is a player run casino with roulette, blackjack, and other games.",
+		"title": "Highlander's MC",
+		"notes": "",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
-			{"lat": -74.584, "lng": -16.835},
-			{"lat": -74.372, "lng": -16.055},
-			{"lat": -74.429, "lng": -15.649},
-			{"lat": -74.666, "lng": -16.484}
+			{"lat": 78.107, "lng": -13.906},
+			{"lat": 77.369, "lng": -10.544},
+			{"lat": 73.154, "lng": -27.144},
+			{"lat": 74.186, "lng": -27.561},
+			{"lat": 74.477, "lng": -27.165},
+			{"lat": 74.854, "lng": -25.803},
+			{"lat": 75.094, "lng": -26.792},
+			{"lat": 75.440, "lng": -26.836},
+			{"lat": 75.795, "lng": -26.309},
+			{"lat": 76.199, "lng": -24.221},
+			{"lat": 76.438, "lng": -23.013},
+			{"lat": 76.642, "lng": -21.321},
+			{"lat": 76.973, "lng": -20.376},
+			{"lat": 77.277, "lng": -19.343},
+			{"lat": 77.798, "lng": -16.794},
+			{"lat": 78.019, "lng": -15.360}
 		]
 	}
 ]
