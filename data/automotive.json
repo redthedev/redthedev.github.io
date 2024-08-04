@@ -760,11 +760,54 @@
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
-			{"lat": -53.193, "lng": 10.390},
-			{"lat": -53.735, "lng": 11.994},
-			{"lat": -54.425, "lng": 11.192},
-			{"lat": -53.898, "lng": 9.610}
+			{"lat": -47.374, "lng": -28.212},
+			{"lat": -47.396, "lng": -27.663},
+			{"lat": -47.686, "lng": -27.696},
+			{"lat": -47.671, "lng": -28.234}
+		]
+	},
+	{
+		"title": "Parking #32",
+		"notes": "",
+		"wiki_link": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -47.338, "lng": -4.472},
+			{"lat": -47.576, "lng": -3.044},
+			{"lat": -48.392, "lng": -3.506},
+			{"lat": -48.107, "lng": -4.813}
+		]
+	},
+	{
+		"title": "Parking #33",
+		"notes": "",
+		"wiki_link": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -16.085, "lng": 57.471},
+			{"lat": -16.959, "lng": 57.482},
+			{"lat": -16.959, "lng": 56.801},
+			{"lat": -16.095, "lng": 56.790}
+		]
+	},
+	{
+		"title": "Parking #34",
+		"notes": "",
+		"wiki_link": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -16.085, "lng": 57.471},
+			{"lat": -16.959, "lng": 57.482},
+			{"lat": -16.959, "lng": 56.801},
+			{"lat": -16.095, "lng": 56.790}
 		]
 	}
+	
 	
 ]
