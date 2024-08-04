@@ -20,6 +20,23 @@
 		]
 	},
 	{
+		"title": "Vinewood Police Department",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -51.603, "lng": -0.107},
+			{"lat": -52.908, "lng": 5.298},
+			{"lat": -53.864, "lng": 3.661},
+			{"lat": -54.392, "lng": 1.760},
+			{"lat": -54.787, "lng": 0.508},
+			{"lat": -54.168, "lng": -2.371},
+			{"lat": -52.974, "lng": -1.217}
+		]
+	},
+	{
 		"title": "Davis PD",
 		"notes": "",
 		"order": 0,
