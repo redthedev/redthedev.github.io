@@ -160,13 +160,13 @@ $(function() {
 					url: 'data/territories.4.json',
 				}),
 				new CategoryModel({
-					name: 'Weed Turf',
-					icon: 'radar/radar_weed_stash.png',
+					name: 'City Shops',
+					icon: 'radar/radar_heist.png',
 					enabled: true,
 					url: 'data/weed_turf.json',
 				}),
 				new CategoryModel({
-					name: 'Local Businesses',
+					name: 'Local Shops',
 					icon: 'radar/radar_heist.png',
 					enabled: true,
 					url: 'data/heists.4.json',
