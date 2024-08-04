@@ -28,6 +28,20 @@
 		]
 	},
 	{
+		"title": "Grand Senora Dealership",
+		"notes": "Dealership",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CAD8",
+		"latlngarray": [
+			{"lat": 42.967, "lng": 31.978},
+			{"lat": 42.068, "lng": 32.890},
+			{"lat": 41.346, "lng": 31.637},
+			{"lat": 42.231, "lng": 30.814}
+		]
+	},
+	{
 		"title": "Los Santos Customs",
 		"notes": "Repair shop",
 		"wiki_link": "",
@@ -111,6 +125,20 @@
 			{"lat": -73.288, "lng": -15.577},
 			{"lat": -73.626, "lng": -14.160},
 			{"lat": -74.054, "lng": -17.851}
+		]
+	},
+	{
+		"title": "Gearhead Garage",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": 77.246, "lng": -11.094},
+			{"lat": 76.392, "lng": -8.579},
+			{"lat": 76.144, "lng": -10.831},
+			{"lat": 76.884, "lng": -12.731}
 		]
 	},
 	{
